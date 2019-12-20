@@ -2,9 +2,9 @@
     <div class="container-fluid">
         <ol class="breadcrumb">
             <li class="breadcrumb-item">
-                <a href="#">Dashboard</a>
+                <router-link to="/">Dashboard</router-link>
             </li>
-            <li class="breadcrumb-item active">Overview</li>
+            <li class="breadcrumb-item active">Categories</li>
         </ol>
 
         <div class="card mb-3">
